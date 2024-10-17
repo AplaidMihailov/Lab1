@@ -154,8 +154,8 @@ public class Main {
 		2;2;2;2
 	Output:
 		1
-Тест с Max ограничениями
-Input:
-	1000000000;7;4;2
-Output:
-	4
+	Тест с Max ограничениями
+	Input:
+		1000000000;7;4;2
+	Output:
+		4
